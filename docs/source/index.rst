@@ -10,7 +10,7 @@ Welcome to Public-Permissioned Blockchain's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+This is normal text. And this is additional text.
 
 Indices and tables
 ==================

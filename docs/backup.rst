@@ -1,0 +1,240 @@
+Public-Permissioned blockchain
+==============================
+
+## Introduction
+
+### Objectives of this document
+
+#### Auditability, Traceability, Strong Identities and proper Governance Model allow Performance with the right Safety
+
+### Structure of this document
+
+## Some notes on terminology
+
+## The need for a Public-Permissioned network
+
+### Current landscape
+
+#### Public-Permissionless
+
+#### Private Consortiums
+
+### Problems of current blockchains
+
+### Compare with public services
+
+### Digitize a country economy
+
+
+
+
+## Requirements for a Public-Permissioned blockchain
+
+### Principles of Public-Permissioned
+
+#### Adapt from EBSI
+
+### For citizens
+
+#### Inclusiveness
+
+##### Not just for paranoids
+
+#### Empowerment
+
+#### Protection
+
+#### Privacy
+
+### Por businesses
+
+#### Better collaboration
+
+#### Better regulatory compliance
+
+#### The right cost
+
+### For Public Administrations
+
+#### Collaboration with other administrations
+
+#### Collaboration with private sector
+
+
+#### Better citizen services
+
+#### Improve transparency
+
+#### Reduce fraud
+
+#### Reduce cost
+
+### For non-profit organizations
+
+#### Better collaboration
+
+#### Improve transparencyduce fraud
+
+#### Reduce cost
+
+### Strong identities
+
+#### The world is Cyber-Physical
+
+#### Transacting physical things requires identities
+
+### Decentralization
+
+#### The many faces of Decentralization
+
+
+
+
+## The cost of Anonymity: the Blockchain Trilemma
+
+### The Blockchain Trilemma
+
+### The costs of Anonymity
+
+### Permissioning/Identities change everything
+
+### A little trust helps a lot
+
+### Designed for the “normal” citizen
+
+### The right balances and compromises
+
+### The real economy needs real identities and an efficient legal system
+
+#### The chain of responsibility
+
+
+
+## Immutability (aka Safety)
+
+### The cost of Anonymity
+
+#### Anonimity requires Immutability
+
+#### Lack of legal support requires Immutability
+
+### Permissioning + Identities + Legal environment relaxes Immutability requirements
+
+#### Immutability vs Auditability, Traceability
+
+#### Tamper Evidence in Public-Permissioned
+
+### Real Safety is higher in Public-Permissioned networks
+
+### Immutability considered harmful
+
+#### Need for a Tamper-evident erasable blockchain
+
+### From the Trilemma to the Dilemma: The Trust Continuum
+
+#### If Safety is assumed, the compromise is among Scalability and Decentralization
+
+
+
+
+
+
+## Scalability
+
+### The many faces of Scalability
+
+#### Scalability on Performance
+
+#### Scalability on number of Regular nodes
+
+#### Scalability on Participating entities
+
+#### Scalability on Consensus nodes
+
+#### Scalability on geographical distribution
+
+### The cost of Anonymity: Performance bottlenecks of Permissionless blockchains
+#### Consensus algorithm
+#### All nodes execute all transactions
+#### PBFT-based consensus algorithms are more scalable 
+##### Maintaining the same simple programming model for users
+### The cost of Anonymity: Scalability on Participating entities
+#### SMEs and citizens can not have a Full node
+#### They require Light nodes, which are very difficult if maintain Safety
+#### Many citizens and SMEs could participate via entities they trust at least partially
+#### Very difficult to do in Permissionless because obligated subjects can not participate
+### Scalability on number of Regular nodes
+### Scalability on Consensus nodes (aka Consensus Algorithm)
+#### Permissionless algorithms are very scalable (PoW, PoS)
+##### But have low Performance
+#### Pure PBFT-based algorithms are not scalable
+#### PBFT and Decentralization
+### Permissioning and Identities
+
+
+
+
+
+## Decentralizacion
+### The many faces of Decentralization
+### The important thing is the citizen, not decentralization
+### Attempting to measure Decentralization
+### Decentralization in Public-Permissionless
+#### Inclusiveness
+#### Who controls the network?
+#### Protection of the normal citizen
+### Technical decentralization vs Real decentralization
+#### A world of compromises
+### Public-Permissioned decentralization is better for the citizen
+
+
+
+
+
+## Governance Model
+### Association
+### Platform
+#### Off-chain
+#### On-chain
+##### Decentralized onboarding
+###### Regular nodes
+###### Block-maker nodes
+##### Decentralized off-boarding
+###### Regular nodes
+###### Block-maker nodes
+##### Transparent monitoring of the execution of Consensus algorithm
+###### All network can see activity of block-maker nodes
+###### All network can see failing or malicious block-maker nodes
+    All participants in the network can have a dashboard to see the activity
+
+##### More inclusive Block-maker set
+###### Allow stand-by nodes
+###### Proactive rotation of healthy nodes between active and stand-by sets
+###### Management of faulty nodes
+* Detection of Crash and Byzantine faults
+* Excluding a failing node from the execution set
+* Re-inclusion of a fixed node
+## Sustainable operating model
+### What is the cost of using the network
+### Are there incentives for the block-maker nodes?
+#### Economic
+#### Marketing
+#### Long-term investment
+## Privacy of data and transactional activity
+## Decentralized storage
+## Low transaction costs
+## Protection from overloading
+### Protection from malicious nodes
+### Protection from failing nodes
+## Permissioning
+## Protection from poisoning
+## Appendix
+### Conceptual architecture of Public-Permissioned
+#### Regular nodes
+#### Block-maker nodes
+#### Consensus algorithms
+#### Client nodes
+### Mapping of Blockchain concepts to classical Distributed Systems
+### Meaning of Decentralization
+### Meaning of Scalability
+### Immutability vs Auditability, Traceabilkity, Tamper Evidence

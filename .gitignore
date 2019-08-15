@@ -3,3 +3,4 @@ docs/source/_build/*
 docs/build/*
 .DS_Store
 docs/build/.DS_Store
+.asciidoctor/*

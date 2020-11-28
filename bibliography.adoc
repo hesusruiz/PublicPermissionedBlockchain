@@ -1,0 +1,3 @@
+﻿- [[[AiyerEtAl]]] A. S. Aiyer, L. Alvisi, A. Clement, M. Dahlin, J.-P. Martin, and C. Porth, “BAR Fault Tolerance for Cooperative Services,” p. 14.
+- [[[Lev-AriEtAl2019]]] K. Lev-Ari, A. Spiegelman, I. Keidar, and D. Malkhi, “FairLedger: A Fair Blockchain Protocol for Financial Institutions,” p. 16, 2019.
+- [[[Amoussou-Guenou]]] Y. Amoussou-Guenou, “On Fairness in Committee-based Blockchains,” p. 18.
